@@ -1,0 +1,12 @@
+Revision history for Perl extension Params::Flex.
+
+0.03  
+	Fixed name. Thanks to Adam Kennedy.
+
+0.02  Fri Dec 30 06:33:31 2005
+	Fixed document.
+
+0.01  Thu Dec 29 18:50:05 2005
+	- original version; created by h2xs 1.23 with options
+		-X -A Class::Args
+
